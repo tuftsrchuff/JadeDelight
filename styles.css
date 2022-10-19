@@ -1,0 +1,17 @@
+.userInfo{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.userInfo input{
+    margin-right: 60%;
+}
+
+.hidden{
+    display: none;
+}
+
+.invalid{
+    border: 5px solid red;
+}
